@@ -1,1 +1,1 @@
-# Lab2_JS_Pomyluiko
+# Lab2 Kuchinska SMP

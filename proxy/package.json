@@ -1,9 +1,9 @@
 {
   "name": "modulesapp",
   "version": "1.0.0",
-  "description": "JavaScript Lab1 Server",
+  "description": "SMP Lab2 Server",
   "main": "index.js",
-  "author": "Dmytro Pomyluiko KI-191",
+  "author": "Kuchinska Valeria, group KI-191",
   "license": "ISC",
   "scripts": {
     "start": "node app.js",
